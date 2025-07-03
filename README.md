@@ -1,4 +1,6 @@
-# 💫 About Me:
+
+
+#  About Me:
 I'm passionate about artificial intelligence, data analysis, and building solutions that combine technology with creativity. I specialize in machine learning, data science, and automation projects, with a hands-on approach focused on solving real-world problems. I'm always eager to learn something new and share what I know.
 
 
